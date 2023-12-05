@@ -1,6 +1,4 @@
-# AI-Homework-1
-
-## Kalaha (2 players, human or AI)
+# Kalaha (2 players, human or AI)
 
 **System Requirements:**
 - Java 13
